@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1200&color=FF8C69&center=true&vCenter=true&width=600&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%81Saki+Tsunoda+%E3%81%A7%E3%81%99+%F0%9F%8D%91;AI+%C3%97+Infrastructure+as+Code+%E2%98%81%EF%B8%8F;%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90+%26+%E4%BA%88%E6%B8%AC+%F0%9F%93%88;15%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%A7%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1200&color=FF8C69&center=true&vCenter=true&width=600&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%81Saki+nya+%E3%81%A7%E3%81%99+%F0%9F%8D%91;AI+%C3%97+Infrastructure+as+Code+%E2%98%81%EF%B8%8F;%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90+%26+%E4%BA%88%E6%B8%AC+%F0%9F%93%88;15%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%A7%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A+%F0%9F%A7%A9" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Public_Repos-69-FFAAA7?style=for-the-badge&logo=github&logoColor=white" />
