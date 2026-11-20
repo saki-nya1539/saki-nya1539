@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98DDCA,50:D5ECC2,100:FFAAA7&height=230&section=header&text=Saki%20Tsunoda&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%E2%9C%BF%20Generative%20AI%20%C3%97%20IaC%20%E2%9C%BF%20Data%20%E2%9C%BF%20Dashboards%20%E2%9C%BF&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98DDCA,50:D5ECC2,100:FFAAA7&height=230&section=header&text=Saki%20nya&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%E2%9C%BF%20Generative%20AI%20%C3%97%20IaC%20%E2%9C%BF%20Data%20%E2%9C%BF%20Dashboards%20%E2%9C%BF&descSize=18&descAlignY=60" width="100%" />
 
 <div align="center">
 
