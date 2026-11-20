@@ -107,6 +107,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saki-nya1539&hide_border=true&area=true&bg_color=FFFBF5&color=5A6B64&line=FF8C69&point=3FBF9F&area_color=FFD3B4&title_color=FF8C69&radius=12" width="100%" />
 </div>
 
-<p align="center"><i>🍑 見に来てくれてありがとうございます！ 気になるリポジトリがあれば ⭐ をもらえると励みになります 🍑</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAAA7,50:D5ECC2,100:98DDCA&height=120&section=footer" width="100%" />
